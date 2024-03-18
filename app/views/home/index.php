@@ -11,7 +11,7 @@
     <h1>Welcome Jonathan! :D</h1>
     <div>
         <a href="/login">Login</a>
-        <a href="/register">Register</a>
+        <a href="/register">Registerr</a>
     </div>
 </body>
 
